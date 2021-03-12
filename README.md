@@ -8,6 +8,7 @@ tenemos que adivinar ya que solo tenemos un numero determinado de intentos
 INTEGRANTES
 
 EDUARDO CAIZA
+
 BRYAN OLIVARES
 
 PAGINA INICIAL
