@@ -11,6 +11,10 @@ EDUARDO CAIZA
 
 BRYAN OLIVARES
 
+LINK FUCIONAMIENTO
+
+https://youtu.be/Rg2WLkwwxYI
+
 PAGINA INICIAL
 
 ![ScreenShot](https://github.com/JeffersonCaiza/Proyecto_Topicos_Especiales/blob/main/1.jpg?raw=true)
