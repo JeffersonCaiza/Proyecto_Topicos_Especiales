@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>RESIDENTEVIL</item>
+        <item>GODOFWAR</item>
+        <item>DEVILMAYCRY</item>
+        <item>MORTALKOMBAT</item>
+        <item>CALLOFDUTY</item>
+        <item>THELASTOFUS</item>
+        <item>DOOM</item>
+        <item>CRASHBANDICOOL</item>
+        <item>DRAGONBALLZ</item>
+
+
+    </string-array>
+</resources>
